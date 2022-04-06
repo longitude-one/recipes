@@ -1,0 +1,14 @@
+{
+    "recipes": {
+        "longitude-one/meta-bundle": [
+            "1.0"
+        ]
+    },
+    "branch": "master",
+    "is_contrib": true,
+    "_links": {
+        "repository": "github.com/longitude-one/recipes",
+        "origin_template": "{package}:{version}@github.com/longitude-one/recipes:master",
+        "recipe_template": "https://api.github.com/repos/longitude-one/recipes/contents/{package_dotted}.{version}.json"
+    }
+}
