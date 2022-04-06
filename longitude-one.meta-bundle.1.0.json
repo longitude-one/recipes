@@ -9,7 +9,7 @@
                 }
             },
             "files": {
-                "config/packages/acme_private.yaml": {
+                "config/packages/meta.yaml": {
                     "contents": [
                         "meta:",
                         "    defaults:",
