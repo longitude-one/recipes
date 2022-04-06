@@ -6,7 +6,12 @@
                     "LongitudeOne\\MetaBundle\\LongitudeOneMetaBundle": [
                         "all"
                     ]
-                }
+                },
+                "post-install-output": [
+                    "  * Your bundle is almost ready:",
+                    "    1. Edit the config/packages/meta.yaml",
+                    "    2. In your templates you can now use these twig functions: meta_description(), meta_title() and meta('my_foo_tag') "
+                ]
             },
             "files": {
                 "config/packages/meta.yaml": {
